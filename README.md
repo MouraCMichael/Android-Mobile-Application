@@ -1,5 +1,5 @@
 # LinkOS-Android-EAI_DemoApp
-Android Java based sample code for developing a printer based Enterprise Asset Intelligence App to gather printer information and enable advanced workflows and AI.  
+Property of Zebra Technologies.  This is an Android Java based sample code for developing a printer based Enterprise Asset Intelligence App to gather printer information and enable advanced workflows and AI.  
 
 # Notes
 This sample code is designed to work with the [Link-OS Multiplatform SDK](http://www.zebra.com/sdk). Using the Android and the Android BTLE libraries.
