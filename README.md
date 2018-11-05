@@ -4,6 +4,8 @@ Android Java based sample code for developing a printer based Enterprise Asset I
 # Notes
 This sample code is designed to work with the [Link-OS Multiplatform SDK](http://www.zebra.com/sdk). Using the Android and the Android BTLE libraries.
 
+Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
+
 Find [API Documentation](http://techdocs.zebra.com/link-os) here.
 
 [Developer Community](https://developer.zebra.com/community/technologies/printers) and Forums.
